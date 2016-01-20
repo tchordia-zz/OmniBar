@@ -1,8 +1,9 @@
 package Gui;
 
 public class Main {
-public void cool()
-{
-	System.out.println(123);
-}
+
+    public void omniCool()
+    {
+        //System.out.println(123);
+    }
 }
